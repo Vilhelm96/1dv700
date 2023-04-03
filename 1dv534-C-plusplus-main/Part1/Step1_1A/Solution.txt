@@ -1,0 +1,1 @@
+Fixed the issues the file had and made it better organised than before.

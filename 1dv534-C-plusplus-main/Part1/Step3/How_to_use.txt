@@ -1,0 +1,3 @@
+I added the cpp files and the obj file. 
+My program worked when I did not have the obj file in visual studio, so I recommend you not include it as well.
+TicTacToe.cpp is the file that has the main.
