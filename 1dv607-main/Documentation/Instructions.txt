@@ -1,0 +1,19 @@
+Using Eclipse
+1. First of all I would suggest you to download Eclipse but it could probably work in other IDEs aswell. Since we used Eclipse we only gonna instruct on how to get it to work in Ecplise. I recommend download the latest version of Ecplise 
+
+2. When you are done downloading Eclipse start it.
+
+3. Create a project and then copy the all the code from src folder and put inside the new projects src folder.
+
+4. Now you got our program. You can go to main in src and press run if you want to try it.
+
+Jar file
+1. Open cmd
+2. Locate the full project using cd
+3. Write java -jar BoatClub.jar
+4. Now you can use our Boat club enjoy! 
+
+Thanks for trying my program
+Vilhelm P
+
+
